@@ -1,4 +1,4 @@
-# AlphaForge: Bitcoin Alpha Generation using Machine Learning
+# Bitcoin Alpha Generation using Machine Learning
 
 A quantitative finance project that predicts daily Bitcoin returns using blockchain on-chain metrics, macroeconomic indicators, and engineered technical features. The predicted returns are converted into long/short trading signals and evaluated against a buy-and-hold benchmark using both statistical and financial performance metrics.
 
